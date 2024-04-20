@@ -25,4 +25,5 @@ Saya Mohammad Raihan Aulia Kamil (2205449) mengerjakan soal Latihan Praktikum 7 
    Jika pemain menekan tombol "r", permainan diulang dari awal, skor direset, dan burung kembali ke posisi awalnya.
 
 # Dokumentasi
-
+![alt text](https://github.com/rehankmil/LP7DPBO2024C1/blob/main/Dokumentasi/Jatuh%20ke%20Dasar.png)
+![alt text](https://github.com/rehankmil/LP7DPBO2024C1/blob/main/Dokumentasi/Nabrak%20Pipa.png)
